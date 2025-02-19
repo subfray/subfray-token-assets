@@ -1,0 +1,13 @@
+{
+    "name": "Subfray",
+    "symbol": "SUBFRAY",
+    "description": "Subfray is a Bitcoin prediction game where users forecast OHLC values to earn rewards.",
+    "image": "https://raw.githubusercontent.com/subfray/subfray-token-assets/main/token.png",
+    "decimals": 9,
+    "extensions": {
+        "website": "https://www.subfray.com",
+        "twitter": "https://x.com/Subfray",
+        "x": "https://x.com/Subfray",
+        "github": "https://github.com/subfray/subfray-token-assets"
+    }
+}
