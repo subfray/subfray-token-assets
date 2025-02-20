@@ -1,13 +1,21 @@
 {
-    "name": "Subfray",
-    "symbol": "SUBFRAY",
-    "description": "Subfray is a Bitcoin prediction game where users forecast OHLC values to earn rewards.",
-    "image": "https://raw.githubusercontent.com/subfray/subfray-token-assets/main/token.png",
-    "decimals": 9,
-    "extensions": {
-        "website": "https://www.subfray.com",
-        "twitter": "https://x.com/Subfray",
-        "x": "https://x.com/Subfray",
-        "github": "https://github.com/subfray/subfray-token-assets"
+  "name": "Subfray",
+  "symbol": "SUBFRAY",
+  "uri": "https://raw.githubusercontent.com/subfray/subfray-token-assets/main/token.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "8Nf7iy3CyacaJWDSoR9vXLZs3DdsnFQ1YyYARnY1dVw2",
+      "share": 100
     }
+  ],
+  "description": "Subfray is a Bitcoin prediction game where users forecast OHLC values to earn rewards.",
+  "image": "https://raw.githubusercontent.com/subfray/subfray-token-assets/main/token.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://www.subfray.com",
+    "twitter": "https://x.com/Subfray",
+    "discord": "https://discord.gg/Subfray",
+    "github": "https://github.com/subfray/subfray-token-assets"
+  }
 }
